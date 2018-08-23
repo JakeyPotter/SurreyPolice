@@ -8,9 +8,11 @@ This is my NEA project I did for AQA Computer Science. It's a database on Surrey
 
 Ideally, run this on a database that supports Derby or something idk.
 
-If you don't know what it is, it's a piece of coursework I did over June 2017 - March 2018 which went towards my A-Level. I made it with Netbeans using Derby and Java. 
+If you don't know what it is, it's a piece of coursework I did over June 2017 - March 2018 which went towards my A-Level. I made it with Netbeans using Derby and Java. SQL was used for the database functions (duh)
 
 Public because I'm not at college anymore + results came in.
+
+All the important "how do i get good markz" information is in **src/Database**. Look for the files ending in ".java". 
 
 **TO THE BIG HEADS AT AQA**: If you find this, please remember that I am the ACTUAL OWNER of this program (save the Surrey Police logo which I use with free use w/o profit legal mumbo jumbo) and don't bother saying that this is plagarism because I made this over the course of 9 or so months. Let me be and do your boring paperwork stuff you have to do.
 
